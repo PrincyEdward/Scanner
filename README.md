@@ -1,2 +1,2 @@
 # Vulnerability Scanner
-# This script is meant for conforming, security misconfiguration
+This script is meant for conforming, security misconfiguration
